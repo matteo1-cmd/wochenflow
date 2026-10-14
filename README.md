@@ -1,2 +1,0 @@
-# wochenflow
-Mein persönlicher Fitnesstracker
